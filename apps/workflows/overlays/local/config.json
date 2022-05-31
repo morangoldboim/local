@@ -1,0 +1,13 @@
+{
+  "appName": "workflows",
+  "userGivenName": "workflows",
+  "destNamespace": "local",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/workflows/overlays/local",
+  "srcRepoURL": "https://github.com/morangoldboim/local.git",
+  "srcTargetRevision": "",
+  "labels": {
+    "codefresh_io_entity": "component",
+    "codefresh_io_internal": "true"
+  }
+}
