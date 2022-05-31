@@ -1,0 +1,15 @@
+{
+  "appName": "rollout-reporter",
+  "userGivenName": "rollout-reporter",
+  "destNamespace": "local",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/rollout-reporter/local/resources",
+  "srcRepoURL": "https://github.com/morangoldboim/local.git",
+  "srcTargetRevision": "",
+  "labels": {
+    "codefresh_io_entity": "component",
+    "codefresh_io_internal": "true"
+  },
+  "exclude": "",
+  "include": ""
+}
