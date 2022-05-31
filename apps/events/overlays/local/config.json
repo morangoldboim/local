@@ -1,0 +1,13 @@
+{
+  "appName": "events",
+  "userGivenName": "events",
+  "destNamespace": "local",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/events/overlays/local",
+  "srcRepoURL": "https://github.com/morangoldboim/local.git",
+  "srcTargetRevision": "",
+  "labels": {
+    "codefresh_io_entity": "component",
+    "codefresh_io_internal": "true"
+  }
+}
